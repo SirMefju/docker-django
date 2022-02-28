@@ -72,4 +72,4 @@ Email Address []:
 Feel free to open pull requests or issues. GitHub is the canonical location of this project.
 
 ### license
-Be my guest :)
+Be my guest :]
