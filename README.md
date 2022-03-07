@@ -24,7 +24,7 @@ application | System check identified no issues (0 silenced).
 application | February 28, 2022 - 08:38:17
 application | Django version 4.0.2, using settings 'main.settings'
 application | Starting development server at https://0.0.0.0:8000/
-application | Using SSL certificate: /usr/local/lib/python3.10/site-packages/sslserver/certs/development.crt
+application | Using SSL crt: /usr/local/lib/python3.10/site-packages/sslserver/certs/development.crt
 application | Using SSL key: /usr/local/lib/python3.10/site-packages/sslserver/certs/development.key
 application | Quit the server with CONTROL-C.
 ```
